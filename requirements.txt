@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+joblib
+scipy
+numpy
+groq
+# Add pandas if you decide to use it directly in pages
