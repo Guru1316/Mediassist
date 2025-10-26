@@ -4,4 +4,7 @@ joblib
 scipy
 numpy
 groq
+matplotlib
+pandas
+seaborn
 # Add pandas if you decide to use it directly in pages
